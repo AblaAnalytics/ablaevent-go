@@ -3,10 +3,10 @@
   "batch": [
     {
       "event": "$create_alias",
-      "library": "posthog-go",
+      "library": "ablaevent-go",
       "library_version": "1.0.0",
       "properties": {
-        "$lib": "posthog-go",
+        "$lib": "ablaevent-go",
         "$lib_version": "1.0.0",
         "alias": "A",
         "distinct_id": "B"

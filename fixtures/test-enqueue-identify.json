@@ -7,10 +7,10 @@
       },
       "distinct_id": "B",
       "event": "$identify",
-      "library": "posthog-go",
+      "library": "ablaevent-go",
       "library_version": "1.0.0",
       "properties": {
-        "$lib": "posthog-go",
+        "$lib": "ablaevent-go",
         "$lib_version": "1.0.0"
       },
       "timestamp": "2009-11-10T23:00:00Z",

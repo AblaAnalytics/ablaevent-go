@@ -4,12 +4,12 @@
     {
       "distinct_id": "123456",
       "event": "Download",
-      "library": "posthog-go",
+      "library": "ablaevent-go",
       "library_version": "1.0.0",
       "properties": {
-        "$lib": "posthog-go",
+        "$lib": "ablaevent-go",
         "$lib_version": "1.0.0",
-        "application": "PostHog Go",
+        "application": "ablaevent Go",
         "version": 0
       },
       "send_feature_flags": false,
@@ -19,12 +19,12 @@
     {
       "distinct_id": "123456",
       "event": "Download",
-      "library": "posthog-go",
+      "library": "ablaevent-go",
       "library_version": "1.0.0",
       "properties": {
-        "$lib": "posthog-go",
+        "$lib": "ablaevent-go",
         "$lib_version": "1.0.0",
-        "application": "PostHog Go",
+        "application": "ablaevent Go",
         "version": 1
       },
       "send_feature_flags": false,
@@ -34,12 +34,12 @@
     {
       "distinct_id": "123456",
       "event": "Download",
-      "library": "posthog-go",
+      "library": "ablaevent-go",
       "library_version": "1.0.0",
       "properties": {
-        "$lib": "posthog-go",
+        "$lib": "ablaevent-go",
         "$lib_version": "1.0.0",
-        "application": "PostHog Go",
+        "application": "ablaevent Go",
         "version": 2
       },
       "send_feature_flags": false,
