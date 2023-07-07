@@ -1,4 +1,4 @@
-# PostHog Go
+# Ablaevent Go
 
 Please see the main [PostHog docs](https://posthog.com/docs).
 
@@ -6,9 +6,9 @@ Specifically, the [Go integration](https://posthog.com/docs/integrations/go-inte
 
 # Quickstart
 
-Install posthog to your gopath
+Install ablaevent to your gopath
 ```bash
-$ go get github.com/posthog/ablaevent-go
+$ go get github.com/AblaAnalytics/ablaevent-go
 ```
 
 Go 🦔!
@@ -17,7 +17,7 @@ package main
 
 import (
     "os"
-    "github.com/posthog/ablaevent-go"
+    "github.com/AblaAnalytics/ablaevent-go"
 )
 
 func main() {
