@@ -8,7 +8,7 @@ Specifically, the [Go integration](https://posthog.com/docs/integrations/go-inte
 
 Install posthog to your gopath
 ```bash
-$ go get github.com/posthog/posthog-go
+$ go get github.com/posthog/ablaevent-go
 ```
 
 Go 🦔!
@@ -17,7 +17,7 @@ package main
 
 import (
     "os"
-    "github.com/posthog/posthog-go"
+    "github.com/posthog/ablaevent-go"
 )
 
 func main() {
