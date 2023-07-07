@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/posthog/posthog-go"
+	"github.com/AblaAnalytics/ablaevent-go"
 )
 
 func TestIsFeatureEnabled() {

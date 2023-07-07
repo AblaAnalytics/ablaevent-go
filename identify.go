@@ -1,4 +1,4 @@
-package posthog
+package ablaevent
 
 import "time"
 
@@ -44,7 +44,7 @@ type IdentifyInApi struct {
 }
 
 func (msg Identify) APIfy() APIMessage {
-	library := "posthog-go"
+	library := "ablaevent-go"
 
 	myProperties := Properties{}.Set("$lib", library).Set("$lib_version", getVersion())
 
