@@ -1,4 +1,4 @@
-package posthog
+package ablaevent
 
 import (
 	"testing"

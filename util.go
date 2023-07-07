@@ -1,4 +1,4 @@
-package posthog
+package ablaevent
 
 type SizeLimitedMap struct {
 	ids  map[string][]string
