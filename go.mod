@@ -1,4 +1,4 @@
-module github.com/posthog/posthog-go
+module github.com/AblaAnalytics/ablaevent-go
 
 go 1.15
 
