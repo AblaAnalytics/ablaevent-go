@@ -12,7 +12,7 @@ import (
     "github.com/AblaAnalytics/ablaevent-go"
 )
 func main() {
-    client, _ := posthog.NewWithConfig("phc_ySCF4YinUf6DxprJ5B0jXtzgijeTqFkWPsIIfC3yTrC", posthog.Config{Endpoint: "https://e.abla.io"})
+    client, _ := posthog.NewWithConfig("PHC", posthog.Config{Endpoint: "https://e.abla.io"})
     defer client.Close()
 }
 ```` 
